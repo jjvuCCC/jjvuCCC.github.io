@@ -8,7 +8,7 @@ body{
     
 }
 .main{
-    width: 445px;
+    width: 80%;
     margin: 0 auto;
     border: double rgba(0, 0, 0, 0.758) 5px;
 }
